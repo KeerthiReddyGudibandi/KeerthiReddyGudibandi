@@ -1,7 +1,4 @@
-### Hi there 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 - 👋 Hi, I’m KeerthiReddy
 - 👀 I’m working on Artificial Intelligence, Machine Learning and Python projects
 - 🌱 I’m currently learning java, Web development, Data Structures and algorithms
