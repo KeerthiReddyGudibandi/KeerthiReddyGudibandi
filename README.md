@@ -8,6 +8,7 @@
 - 👀 I’m working on Artificial Intelligence, Machine Learning and Python projects
 - 🌱 I’m currently learning java, Web development, Data Structures and algorithms
 - 💞️ I’m looking to collaborate on Data Structures and Python projects
+</p>
 
 <!---
 KeerthiReddyGudibandi/KeerthiReddyGudibandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
