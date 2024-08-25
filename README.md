@@ -7,11 +7,12 @@
 <p>
 I'm Keerthi Reddy Gudibandi ✨ 
 
-- 🔭 I’m working on Python, Artificial Intelligence, Machine Learning, Data Analysis and Visualization projects.
+- 🔬 I’m working on Python, Artificial Intelligence, Machine Learning, Data Analysis and Visualization projects.
 - 🌱 I’m currently learning Web development, Data structures and algorithms.
 - 💞️ I’m looking to collaborate on Artificial Intelligence, Machine Learning and Data Structures projects.
 - 💬 Ask me about Java, AI, ML, NLP, SQL, HTML, CSS, Python.
 </p>
+
 
 <!---
 KeerthiReddyGudibandi/KeerthiReddyGudibandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
